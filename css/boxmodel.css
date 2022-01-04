@@ -1,0 +1,23 @@
+*{
+
+}
+body{
+    background-color: #fafafa;
+    color: #242424;
+    font-size: 14px;
+    line-height: 1.25;
+    font-weight: 400;
+    font-family: 'Roboto', sans-serif;
+div{
+    width: 350px;
+    height: 350px;
+    border: 1px solid #385838;
+}
+img{
+    max-width: 100%;
+    padding: 15px;
+    box-sizing: border-box;
+    border-radius: 5px;
+    box-shadow: 0 0 10px #aaaaaa;
+}
+}
