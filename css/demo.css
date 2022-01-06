@@ -1,6 +1,16 @@
-h1{
+p{
+    border-bottom: 10px #b92b8b;
+}
+h2{
     text-align: right;
 }
-p{
-    border-bottom: 10px hotpink;
+ul{
+    text-align: right;
+}
+h3{
+    color: #b92b8b;
+    text-transform: ;
+}
+body{
+    width: 800px;
 }
